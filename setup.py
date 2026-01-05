@@ -13,7 +13,7 @@ setup(
         "numpy",
         "rasterio",
         "google-api-python-client",
-        "pyCrypto",
+        "pycryptodome",
         "earthengine-api"
     ],
     classifiers=[
